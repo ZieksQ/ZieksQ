@@ -1,4 +1,4 @@
-### 👋 Hi, I’m ZieksQ  
+# 👋 Hi, I’m ZieksQ  
 
 - 🚀 Manifesting to be a **Full-Stack Developer** in an **Enterprise Company**  
 - 📚 Currently learning the **PERN Stack**  
@@ -20,9 +20,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ZieksQ&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ZieksQ&icon=0&color=0)](https://visitcount.itsvg.in)
