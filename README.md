@@ -1,8 +1,11 @@
-# 👋 Hi, I’m ZieksQ  
+### 👋 Hi, I’m ZieksQ  
 
 - 🚀 Manifesting to be a **Full-Stack Developer** in an **Enterprise Company**  
 - 📚 Currently learning the **PERN Stack**  
 - 💻 Passionate about building **Full-Stack Websites** and starting a **Start-up Project**  
+- 🤝 Looking to collaborate on **React + Express.js Projects**  
+- ❓ Ask me about **Computer Specs, Programming, and Anime**  
+- ⚡ Fun fact: I’m using a **10+ year old laptop** for programming (just upgraded the RAM & SSD)  
 - 🎮 Hobbies & Interests:  
   - 🎮 Gaming  
   - 🎌 Anime  
